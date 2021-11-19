@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138193111876",
+    "project_id": "pc-api-8253691873746603614-484",
+    "storage_bucket": "pc-api-8253691873746603614-484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138193111876:android:5521968a73c021411c6511",
+        "android_client_info": {
+          "package_name": "org.techtown.firebase_recyclerviw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138193111876-4slauj4ctc5she73ctcrc6r10a75lo4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmcgE6uh9GOoAwoD_g0yq5w7JytKjEO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138193111876-4slauj4ctc5she73ctcrc6r10a75lo4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
